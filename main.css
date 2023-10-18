@@ -1,0 +1,25 @@
+*{
+    font-family: 'Roboto', sans-serif;
+}
+
+.bg-color-header {
+    background: orange;
+}
+
+.navbar-brand {
+    width: 60px;
+}
+
+#navbar-items .navbar-nav {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+.carousel-control-prev,
+.carousel-control-next {
+    font-size: 5rem;
+}
+.card-body{
+    background-color: orange;
+}
